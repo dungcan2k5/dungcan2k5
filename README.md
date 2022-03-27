@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dungcan2k5
-- 👀 I’m interested in writing code
+- 👀 I’m interested in writing Code
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
